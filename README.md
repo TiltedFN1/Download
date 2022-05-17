@@ -9,6 +9,6 @@
 
 +Chapter 1 - Chapter 2
 
-+Party Services down
++Party Services up
 
 new launcher coming in 6.1.22
